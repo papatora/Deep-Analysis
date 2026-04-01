@@ -1,0 +1,129 @@
+{
+  "buys": {
+    "82MmG1uH2BWLyoU7VCFYMohP9CT63q5paiKHAAAn3zWx": {
+      "price_per_token": 1.10907e-05,
+      "buy_tx": "2PvcNM9MfEPZKkfEga9Lkp8J4JYgN4PhyXGgu6vjYphu8MjusrxNLLnhoEHcQqR5gpQHCcHFDoEBD17gboSVDYTF",
+      "tp_percent": 100,
+      "sl_percent": 20,
+      "total_sol": 0.00501812,
+      "sol_spent": 0.00501812,
+      "tokens_received": 452.461987,
+      "confirmed": true,
+      "time": "2026-03-31T08:52:48",
+      "tp_price": 2.21814e-05,
+      "sl_price": 8.872560000000001e-06
+    }
+  },
+  "sells": [
+    {
+      "token": "4qbCffZLLApr1bdstAaJcrhF8ZAACJFWS7bm4ycgBAGS",
+      "amount_tokens": 1354.336004136,
+      "sell_amount_sol": 6.433732189397078,
+      "buy_amount_sol": 0.005,
+      "pnl_sol": 6.42873219,
+      "pnl_percent": 128574.6,
+      "sell_tx": "4kZyzUg3wGoTShrpVroTRmvFpDBVNgFujKfYtF4FNVdSXedMDtWt84qEEncEsCyTxbf4YMiYGTakryyEt8fBWHtL",
+      "time": "2026-03-30T15:27:01"
+    },
+    {
+      "token": "9mogtCxcCvSqyyCkt1eAG4Tg5jjFfDDQPiGg3mMWpump",
+      "amount_tokens": 5810.278064,
+      "sell_amount_sol": 22.81842567941702,
+      "buy_amount_sol": 0.005,
+      "pnl_sol": 22.81342568,
+      "pnl_percent": 456268.5,
+      "sell_tx": "23UrH5PHZQyxrSJ1L8s3mhgdMDjoji9at847Bm2J9JYP4xPrdZiZZbzVgSrdwoL5tzG9HTXnq1i8WszL8u931JXq",
+      "time": "2026-03-30T15:34:04"
+    },
+    {
+      "token": "BjiCoaMNKVdK967BrQWfeXEmhTdAPC2k9hYL5dj5pump",
+      "amount_tokens": 1311.026684,
+      "sell_amount_sol": 10.528628080181061,
+      "buy_amount_sol": 0.005,
+      "pnl_sol": 10.52362808,
+      "pnl_percent": 210472.6,
+      "sell_tx": "2C4Z9E6uagApxfbv3WYoWK4ctMdHekh45K5pDJeCo25Hnub2dgnM48AnhHBot8dwZYtLj5LkAhFgxTJRedDRTj7v",
+      "time": "2026-03-30T15:36:01"
+    },
+    {
+      "token": "79fk33DNmroyG65yqM2GMm2kAUp8zeRM4EZScaD5pump",
+      "amount_tokens": 1561.949816,
+      "sell_amount_sol": 5.473506406791256,
+      "buy_amount_sol": 0.005,
+      "pnl_sol": 5.46850641,
+      "pnl_percent": 109370.1,
+      "sell_tx": "55Asp7twjaVYKkqhMW778TcPRiYBxgRTogFLFgE7vejeJoByMLTcJ13eTRH3XazrggK9w7XRkeDfmy7YuGNuw4zZ",
+      "time": "2026-03-30T15:41:49"
+    },
+    {
+      "token": "8KdyQF3pJzRNkEKgDU644NBr79MneUqbjeHtVXaupump",
+      "amount_tokens": 4.945376,
+      "sell_amount_sol": 0.02924187839537728,
+      "buy_amount_sol": 0.005,
+      "pnl_sol": 0.02424188,
+      "pnl_percent": 484.8,
+      "sell_tx": "3uiPCTdQo7M1PLPpTXUmUJKzBpbmmYSg2EiFpsY9ZhtepVKZH7FoeNoGjoe28JnbZq9sVNTvqsWjqrQzUJ7cQ9xp",
+      "time": "2026-03-31T13:45:40"
+    },
+    {
+      "token": "82MmG1uH2BWLyoU7VCFYMohP9CT63q5paiKHAAAn3zWx",
+      "amount_tokens": 452.461987,
+      "sell_amount_sol": 1.883026489005853,
+      "buy_amount_sol": 0.005,
+      "pnl_sol": 1.87802649,
+      "pnl_percent": 37560.5,
+      "sell_tx": "5aHyWYvkQUq5hxgDqSRwYBeHmDPzKyLX2joxCedn1d6VS3PitoeN9L5Lh4vYhGqQ7D2ooDZBjqDDKYd7vFEfwYti",
+      "time": "2026-03-31T13:45:51"
+    },
+    {
+      "token": "34q2KmCvapecJgR6ZrtbCTrzZVtkt3a5mHEA3TuEsWYb",
+      "amount_tokens": 38.841517,
+      "sell_amount_sol": 0.1911093386405153,
+      "buy_amount_sol": 0.005,
+      "pnl_sol": 0.18610934,
+      "pnl_percent": 3722.2,
+      "sell_tx": "5fQyPcwCWbhaBZ3sdWVwCgjTqMiKBh82VDUSewH3ubwXrCiTCCCrKCao69nHy6S6LUmde84o2ZSVTNVfpLVDC7JS",
+      "time": "2026-03-31T17:19:30"
+    },
+    {
+      "token": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
+      "amount_tokens": 0.00166099,
+      "sell_amount_sol": 3.2178635468544994e-06,
+      "buy_amount_sol": 0.005,
+      "pnl_sol": -0.00499678,
+      "pnl_percent": -99.9,
+      "sell_tx": "4zQTCDt9HHJDotZDoDjTWVMNZUr93Uts1chho8o6Ko1f7wdFdUKrN4c5x6vsZ8DmHhWxCcbNnvQNgGJtsuQgDB9b",
+      "time": "2026-03-31T17:19:57"
+    },
+    {
+      "token": "VDoRrZix72Er41foJAdKrwFqYNozPbktuPa4Xy1A7Au",
+      "amount_tokens": 21.097177,
+      "sell_amount_sol": 0.10269980217394573,
+      "buy_amount_sol": 0.005,
+      "pnl_sol": 0.0976998,
+      "pnl_percent": 1954.0,
+      "sell_tx": "26d17hXwz2VcUvtYkS7Ee2eRAZ1YtPfu56RW3ggqNXQ3VssjY2wpfRM8yGJNxyjBstFHd2xJkYXd1kF6LQPaQLCx",
+      "time": "2026-04-01T07:50:39"
+    },
+    {
+      "token": "Asi1U3mtBP5AUMS5cUCtCC5Tri484SgzVLof354pump",
+      "amount_tokens": 47.685919,
+      "sell_amount_sol": 0.2358028846882155,
+      "buy_amount_sol": 0.005,
+      "pnl_sol": 0.23080288,
+      "pnl_percent": 4616.1,
+      "sell_tx": "3tY5QAk8KYskTEyKodA6UKKvgGzFtmLYGdjArvnBycsh1Wun2aw6HE8amHpCz1g4ss8NuD3mKgSmEYGzq8vG3CUz",
+      "time": "2026-04-01T07:51:06"
+    },
+    {
+      "token": "3tXvLBVojpviB13khqqsV4f7uh51Gy8m5q39eXJCpump",
+      "amount_tokens": 120.798166,
+      "sell_amount_sol": 0.5832022458236431,
+      "buy_amount_sol": 0.005,
+      "pnl_sol": 0.57820225,
+      "pnl_percent": 11564.0,
+      "sell_tx": "2hZp7ENFGWipprwg8BKQ64Uifv7dUXwK9bXwxZXxrrQtoimpZqMWkGBHUTZWGaVK1wpNTUh82a761L4iCo56oWup",
+      "time": "2026-04-01T07:51:17"
+    }
+  ]
+}

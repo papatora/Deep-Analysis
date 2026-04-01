@@ -1,0 +1,41 @@
+# Environment & Secrets
+.env
+*.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs
+*.log
+monitor.log
+
+# Backups
+*.bak
+*backup*
+*_bak
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data files (personal)
+data/trades_local.json
+
+# Node (if using)
+node_modules/
+package-lock.json
